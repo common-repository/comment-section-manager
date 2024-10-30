@@ -1,0 +1,11 @@
+/*tr:nth-child(even) {background-color: #CFD8DC;}*/
+
+#cat_table,#page_table,#allpagestable{
+	/*border:1px solid black; */
+	width:100%; 
+	text-align:left;
+}
+
+td,th{
+	/*border:1px solid black; */
+}
